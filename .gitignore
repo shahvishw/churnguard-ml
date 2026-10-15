@@ -1,0 +1,12 @@
+# Local Python environment
+.venv/
+
+# Python cache and generated files
+__pycache__/
+*.py[cod]
+
+# Local secrets
+.streamlit/secrets.toml
+
+# Original Kaggle data
+data/raw/

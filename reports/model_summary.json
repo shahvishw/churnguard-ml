@@ -1,0 +1,11 @@
+{
+  "selected_model": "Logistic Regression",
+  "selection_metric": "average cross-validation ROC-AUC",
+  "holdout_metrics": {
+    "accuracy": 0.7381121362668559,
+    "precision": 0.504302925989673,
+    "recall": 0.7834224598930482,
+    "f1": 0.6136125654450262,
+    "roc_auc": 0.8412978893797307
+  }
+}
